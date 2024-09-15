@@ -1,0 +1,6 @@
+# treat checksums as binary.
+# these should not have their line endings modified,
+# otherwise the signature might end up invalid.
+sha256sum.txt binary
+sha256sum.txt.sig binary
+keys/* binary
