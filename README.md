@@ -19,8 +19,12 @@ can't filter out specific files:
 
 ## Verifying checksums
 
-Make sure [invoke](https://www.pyinvoke.org/) is installed:
-
 ```
+pip install invoke
 invoke verify
 ```
+
+This verifies the *live* (online, pushed) checksums and signatures.
+It does *not* verify the local files.
+Push to the remote and wait for the GitHub pages deployment to finish
+before running this command.
