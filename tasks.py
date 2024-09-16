@@ -31,12 +31,12 @@ def get_release_file(version, file):
 
 def line_ending(file):
     with open(file, newline=None) as f:
-        line = f.readline()
-        if line.endswith("\r\n"):
+        f.readline()
+        if f.newlines == "\r\n":
             return "CRLF"
-        if line.endswith("\r"):
+        if f.newlines == "\r":
             return "CR"
-        if line.endswith("\n"):
+        if f.newlines == "\n":
             return "LF"
         return None
 
