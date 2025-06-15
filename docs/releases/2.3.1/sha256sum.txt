@@ -1,0 +1,4 @@
+8d4ee30b1b32f48a2642b6dad9e68e249e8e6ea80509d772f851cb013bfa26d5 *musicpresence-2.3.1-mac-arm64.dmg
+0514627a3fa76f4467f809a9c89fd31c6125bf14380011e2380a1363c59c13d3 *musicpresence-2.3.1-mac-x86_64.dmg
+7f2cd769f5ee813ab13fa09cce5feb71df24468c968ef0918871dcfc7df3a900 *musicpresence-2.3.1-windows-x64-installer.exe
+f692416664474673a41f90ab309b08c8e8dfb68d1a65169c817857203b1d0436 *musicpresence-2.3.1-windows-x64.zip
