@@ -1,0 +1,8 @@
+34944e6318e55fe03223189d950a82a8fe376691ebe9d07863e31bba17fe5bd8 *musicpresence-2.3.3-linux-x86_64.AppImage
+5b947bc453ceb7c72a010953766d755355f93d20be2242557d6ff1e595bfc8ed *musicpresence-2.3.3-linux-x86_64.deb
+976404748e5fb516e2a14427f0fed946341d7d6483243f1b9e56fa7606e0298b *musicpresence-2.3.3-linux-x86_64.rpm
+269907d24fc95650db9476dd2bab7b2058531a36631f975f70ff88871db15873 *musicpresence-2.3.3-linux-x86_64.tar.gz
+e8587d35deb07442f0758765211878c236ce812b4e1c8d01fc6a200dc1e031d2 *musicpresence-2.3.3-mac-arm64.dmg
+c2daccbde9713c7fcaaf4e13ab457dd72ebe94cf3db81ab7e65a3afd9e3b0d99 *musicpresence-2.3.3-mac-x86_64.dmg
+eddcfc41040b0a7e20a9ab8557e6e8ce4b89ca4ec01072a84b99d7afb9141bfd *musicpresence-2.3.3-windows-x64-installer.exe
+968c385d0c2392f4cdc4cd39cfbf865065e93481dfb116485174a032714f18dc *musicpresence-2.3.3-windows-x64.zip
